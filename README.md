@@ -87,9 +87,7 @@ The `sales_data.csv` file was designed with real-world data problems to test the
 ## Output Files
 
 - **`retail_mart.db`** — SQLite database containing the `retail_sales` table
-- **`final_retail_report.csv`** — Complete merged and cleaned dataset
-- **`city_revenue_summary.csv`** — Total revenue grouped by city
-- **`top_products.csv`** — Top 5 products ranked by total revenue
+- **`merged.csv`** — Complete merged and cleaned dataset
 
 ---
 
